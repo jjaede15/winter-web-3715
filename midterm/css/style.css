@@ -1,0 +1,40 @@
+.container {
+        background-color: rgb(69, 105, 212); width: 500px;
+        margin: 0 auto;
+        padding: 11px;
+        border: 5px solid color(srgb rgba(159, 51, 116, 0.381) green blue);
+    }
+
+.nav {
+    list-style: none;
+    text-align: center;
+}
+
+.nav li {
+    display: inline;
+    margin-right: 30px;
+    font-size: 20px;
+}
+
+.wild {
+font-size: smaller;
+
+}
+
+.hometext {
+    text-align: center;
+    font-size: 20px;
+}
+
+body{
+    background-color: rgb(152, 202, 204);
+}
+
+.homeintro {
+  font-size: 45px;  
+
+}
+
+.gallerytitle{
+    text-align: center;
+}
